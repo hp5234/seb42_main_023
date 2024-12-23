@@ -1,4 +1,4 @@
-![https://media.discordapp.net/attachments/1080464895268638743/1090148265946787850/logo.jpg?width=715&height=150](https://media.discordapp.net/attachments/1080464895268638743/1090148265946787850/logo.jpg?width=715&height=150)
+![https://img.notionusercontent.com/s3/prod-files-secure%2Fe8f6d927-addb-48f4-b722-9ec379b006fa%2Fc0bb87b8-f2ba-4c10-8cdc-5c5cf4f4f9aa%2FUntitled.png/size/w=1250?exp=1735071004&sig=uEfwpJjQLEH5gi-Q3xQEAAHLT7leb3AsXlTdt7l_32A](https://img.notionusercontent.com/s3/prod-files-secure%2Fe8f6d927-addb-48f4-b722-9ec379b006fa%2Fc0bb87b8-f2ba-4c10-8cdc-5c5cf4f4f9aa%2FUntitled.png/size/w=1250?exp=1735071004&sig=uEfwpJjQLEH5gi-Q3xQEAAHLT7leb3AsXlTdt7l_32A)
 
 - **`Team name` :** 🐉 디지털 드래곤즈
 - **`Project` :** 사회초년생들을 위한 금융플랫폼 (A financial platform for young adults)
